@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hej, jag är Mikael Daskalou 👋
 
-<!--
-**MDaskalou/MDaskalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systemutvecklare .NET | Tidigare Pedagog & Egenföretagare
 
-Here are some ideas to get you started:
+Jag bygger broar mellan pedagogisk struktur och teknisk innovation. Just nu fördjupar jag mig i .NET-ekosystemet och moderna frontend-ramverk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Backend:** ![C#](länk) ![.NET](länk) ![SQL Server](länk)
+
+**Frontend:**
+![Next.js](länk) ![React](länk) ![Tailwind](länk)
+
+---
+
+### 📊 Min GitHub-statistik
+![Mikaels Stats](länk-till-stats-generator)
+
+---
+
+### 📫 Kontakta mig
+- 🌐 [Min Portfolio](länk-till-din-sida)
+- 💼 [LinkedIn](länk-till-linkedin)
